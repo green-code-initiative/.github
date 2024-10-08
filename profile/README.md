@@ -1,2 +1,1 @@
-# .github
-contains all general information for organization
+The purpose of thie github organization is to centralize greenCode projects.
