@@ -1,1 +1,1 @@
-The purpose of thie github organization is to centralize greenCode projects.
+The purpose of this github organization is to centralize our greenCode projects.
